@@ -1,1 +1,1 @@
-# fist file
+# About this mini game
